@@ -1,0 +1,22 @@
+
+body {
+    background: #88f07b;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer a {
+    margin: 0 10px;
+    color: rgb(241, 249, 18);
+}
+
+.email {
+    text-align: center;
+}
